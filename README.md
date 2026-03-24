@@ -2,6 +2,8 @@
 
 Adversarial code hardening for Claude Code. Spawns a Builder agent to implement and a Breaker agent to attack it with tests. Loops until the Breaker can't break it.
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_y1to7ly1to7ly1to" src="https://github.com/user-attachments/assets/11b67200-27f3-4419-adba-b658df6de1bb" />
+
 ## How it works
 
 ```
