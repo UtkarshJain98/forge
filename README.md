@@ -52,17 +52,13 @@ Checkpoint: forge/pre-20260324-1430
 
 ## Installation
 
-From the Claude Code plugin marketplace:
-
-```
-/plugin install forge@claude-plugins-official
-```
-
-Or load locally for a single session:
+Load locally:
 
 ```bash
 claude --plugin-dir ~/forge
 ```
+
+Marketplace install coming soon — pending review by Anthropic.
 
 ## Usage
 
@@ -91,3 +87,4 @@ Auto-detects from config files. Works with any stack that has a test runner:
 ## License
 
 MIT
+
