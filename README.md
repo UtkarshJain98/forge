@@ -68,11 +68,9 @@ Checkpoint: forge/pre-20260324-1430
 
 ## Installation
 
-```bash
-claude --plugin-dir ~/forge
 ```
-
-Marketplace install coming soon — pending review by Anthropic.
+/plugin install forge@claude-plugins-official
+```
 
 ## Usage
 
